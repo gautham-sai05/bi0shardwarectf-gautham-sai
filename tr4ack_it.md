@@ -8,7 +8,7 @@
 
 **2.** Opened the file and got inside the file 
 
-**3.** Used grep command to find date since logs contain them 
+**3.** Used grep command to find deriw as per the hint given
 
 **4.** Got the logs and sorted them
 
