@@ -1,0 +1,11 @@
+#**Crack-A-Lot**<br>
+
+##**Objective**:<br>Find the flag from the given 6000 flags <br>
+
+##Steps taken:<br>
+
+**1.** Downloaded the given file and used wireshark to find the bssid<br>
+
+**2.** Using aircrack ng with the datas given found the flag
+
+**3.** Entered the flag
